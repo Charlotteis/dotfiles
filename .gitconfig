@@ -1,0 +1,13 @@
+[user]
+	name = Charlotte Spencer
+	email = charlottelaspencer@gmail.com
+	signingkey = FILL_IN
+[core]
+	editor = atom --wait
+	excludesfile = ~/.config/git/.gitignore
+[filter "lfs"]
+	clean = git lfs clean %f
+	smudge = git lfs smudge %f
+	required = true
+[commit]
+	gpgsign = true
