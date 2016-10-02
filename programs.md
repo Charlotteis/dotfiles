@@ -1,0 +1,21 @@
+# Programs
+
+- Skitch
+- Atom
+- ImageOptim
+- Brew
+- Oh My Zsh
+- Spotify
+- Hyperterm
+- GitX
+- Chrome
+- Tweetdeck
+- Alfred 2
+- 1 Password
+- boot2docker
+- Divvy
+- Flux
+- GPG Keychain
+- Hemingway
+- Skype
+- Slack
