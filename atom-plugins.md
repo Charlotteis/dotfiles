@@ -3,7 +3,7 @@
 ## Theme
 
 - UI Theme: Atom Material
-- Syntax Theme: Fairyfloss
+- Syntax Theme: cobalt2
 
 ## Plugins
 
@@ -15,7 +15,8 @@
 - linter
 - linter-alex
 - linter-flake8
-- linter-jshint
+- linter-eslint
+- linter-js-standard
 - linter-rubocop
 - linter-rust
 - ruby-block
