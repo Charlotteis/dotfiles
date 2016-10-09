@@ -16,6 +16,7 @@
 - linter-alex
 - linter-flake8
 - linter-eslint
+- linter-hlint
 - linter-js-standard
 - linter-rubocop
 - linter-rust
