@@ -24,7 +24,7 @@ module.exports = {
     css: '',
 
     // custom padding (css format, i.e.: `top right bottom left`)
-    termCSS: 'x-row { line-height: 1em; }', 
+    termCSS: 'x-row { line-height: 1em; }',
 
     // custom padding
     padding: '.5rem',
@@ -58,12 +58,12 @@ module.exports = {
   //   `@company/project`
   //   `project#1.0.1`
   plugins: [
-    'hypercwd', 'hyperborder', 'hyperterm-mactabs', 'hyperterm-title',
-    'hyperterm-tab-icons', 'hyperterm-paste', 'hyperterm-tabs',
+    'hypercwd', 'hyperborder', 'hyperterm-title',
+    'hyperterm-tab-icons', 'hyperterm-paste'
   ],
 
   // in development, you can create a directory under
   // `~/.hyperterm_plugins/local/` and include it here
   // to load it and avoid it being `npm install`ed
   localPlugins: []
-};
+}
