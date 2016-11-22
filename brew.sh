@@ -10,7 +10,6 @@ brew upgrade --all
 
 # Install formula
 brew install coreutils
-brew install node
 brew install exercism
 brew install fontconfig
 brew install git
