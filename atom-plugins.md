@@ -3,7 +3,7 @@
 ## Theme
 
 - UI Theme: Atom Material
-- Syntax Theme: cobalt2
+- Syntax Theme: Darcula
 
 ## Plugins
 
@@ -23,3 +23,5 @@
 - ruby-block
 - seti-icons
 - termninal-plus
+- dash
+- pdf-viewer
