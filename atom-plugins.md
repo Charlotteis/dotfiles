@@ -22,6 +22,6 @@
 - linter-rust
 - ruby-block
 - seti-icons
-- termninal-plus
+- terminal-plus
 - dash
 - pdf-viewer
