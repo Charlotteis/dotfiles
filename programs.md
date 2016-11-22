@@ -20,3 +20,4 @@
 - Skype
 - Slack
 - Dash
+- nvm
