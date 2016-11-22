@@ -19,3 +19,4 @@
 - Hemingway
 - Skype
 - Slack
+- Dash
