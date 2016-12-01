@@ -21,3 +21,4 @@
 - Slack
 - Dash
 - nvm
+- Signal
