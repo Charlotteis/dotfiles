@@ -83,6 +83,10 @@ source /usr/local/bin/virtualenvwrapper.sh
 source ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 eval "$(rbenv init -)"
 
+# Stop ssh keys being a pain in the butt
+eval $(ssh-agent)
+ssh-add ~/.ssh/id_rsa
+
 ### Added by the Heroku Toolbelt
 export EDITOR=atom
 export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
