@@ -59,7 +59,8 @@ module.exports = {
   //   `project#1.0.1`
   plugins: [
     'hypercwd', 'hyperborder', 'hyperterm-title',
-    'hyperterm-tab-icons', 'hyperterm-paste', 'hyper-snazzy'
+    'hyperterm-tab-icons', 'hyperterm-paste', 'hyper-snazzy',
+    'hyperlinks'
   ],
 
   // in development, you can create a directory under
