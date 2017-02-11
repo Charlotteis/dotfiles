@@ -6,7 +6,7 @@
 - Brew
 - Oh My Zsh
 - Spotify
-- Hyperterm
+- Hyper
 - GitX
 - Chrome
 - Tweetdeck
@@ -19,6 +19,10 @@
 - Hemingway
 - Skype
 - Slack
-- Dash
 - nvm
 - Signal
+- `npm install -g pure-prompt`
+- Wire app
+- Last Pass
+- Sketch
+- Spacemacs
