@@ -78,6 +78,7 @@ source $ZSH/oh-my-zsh.sh
 alias gc="git commit"
 alias c="clear"
 alias gfp="git fetch && git pull"
+alias f="fab -f /Users/charlotteis/uSwitch/puppet/fabfile.py"
 
 source /usr/local/bin/virtualenvwrapper.sh
 source ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
@@ -94,5 +95,12 @@ export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
 export PATH="$HOME/.npm-packages/bin:$PATH"
 export PATH="$HOME/ecmascript:$PATH"
+export PATH="/usr/local/sbin:$PATH"
 ### Increase ulimit
 ulimit -n 5000
+
+export NVM_DIR="/Users/charlotteis/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+
+autoload -U promptinit; promptinit
+prompt pure
