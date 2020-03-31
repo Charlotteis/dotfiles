@@ -1,10 +1,10 @@
 [user]
-	name = Charlotte Spencer
-	email = charlottelaspencer@gmail.com
+	name = James Spencer
+	email = jmes.spncer@gmail.com
 	signingkey = FILL_IN
 [core]
-	editor = atom --wait
-	excludesfile = ~/.config/git/.gitignore
+	editor = code --wait
+	excludesfile = /Users/jspencer/.gitignore
 [filter "lfs"]
 	clean = git lfs clean %f
 	smudge = git lfs smudge %f

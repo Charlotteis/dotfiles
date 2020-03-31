@@ -1,28 +1,23 @@
 # Programs
 
-- Skitch
-- Atom
-- ImageOptim
+- DropBox
+- VS Code
 - Brew
 - Oh My Zsh
 - Spotify
-- Hyper
+- iTerm 2
 - GitX
-- Chrome
-- Tweetdeck
-- Alfred 2
-- 1 Password
-- boot2docker
-- Divvy
+- Firefox Developer Edition
+- 1Password
+- Divvy -> Ctrl + Q
 - Flux
 - GPG Keychain
-- Hemingway
 - Skype
 - Slack
 - nvm
-- Signal
+- Whatsapp
 - `npm install -g pure-prompt`
-- Wire app
-- Last Pass
-- Sketch
-- Spacemacs
+- Skitch
+- Zoom
+- pritunl
+

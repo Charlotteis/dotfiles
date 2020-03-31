@@ -10,7 +10,6 @@ brew upgrade --all
 
 # Install formula
 brew install coreutils
-brew install exercism
 brew install fontconfig
 brew install git
 brew install git-radar
@@ -21,11 +20,11 @@ brew install rbenv
 brew install python
 brew install python3
 brew install zsh
-
-# Install more recent versions of some macOS tools.
-brew install vim --override-system-vi
-brew install homebrew/dupes/grep
-brew install homebrew/dupes/openssh
+brew install zsh-syntax-highlighting
+brew install autoconf
+brew install autojump
+brew install awscli
+brew install postgresql
 
 # Remove outdated versions from the cellar.
 brew cleanup

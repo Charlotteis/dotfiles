@@ -1,0 +1,35 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.shell.osx": "zsh",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "prettier.semi": false,
+  "emmet.triggerExpansionOnTab": true,
+  "window.zoomLevel": 0,
+  "prettier.singleQuote": true,
+  "jest.showCoverageOnLoad": true,
+  "jest.pathToJest": "npm run test -- --coverage",
+  "terminal.integrated.rendererType": "dom",
+  "workbench.colorTheme": "Yoncé",
+  "workbench.startupEditor": "newUntitledFile",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.rulers": [
+    80,
+    102
+  ],
+  "files.associations": {
+    "*.rkt": "racket"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+}
