@@ -20,4 +20,6 @@
 - Skitch
 - Zoom
 - pritunl
+- Chrome
+- Typora + Sparkleshare
 
